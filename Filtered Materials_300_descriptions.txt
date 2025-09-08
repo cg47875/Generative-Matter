@@ -1,0 +1,301 @@
+Sb1Te4, layered metallic antimony telluride crystal, rhombohedral structure, semiconducting, anisotropic conductivity, metallic gray with bluish tint, reflective cleavage planes, soft, brittle, semi-metallic luster.
+Cu4Ni1, copper nickel alloy, face-centered cubic structure, high conductivity, silver with pinkish tint, smooth surface, ductile, dense, metallic luster.
+Ce1Y5, cerium yttrium intermetallic, hexagonal structure, dense, matte silvery-gray, fine-grained texture, brittle, moderate reflectivity.
+Fe1S6, iron sulfide compound, cubic crystal structure, dark metallic gray with bronze hue, granular texture, brittle, semi-reflective luster.
+Er3Te4, layered erbium telluride crystal, rhombohedral structure, soft, metallic gray surface, slightly iridescent, brittle, semi-metallic sheen.
+Sc3Se4, scandium selenide compound, orthorhombic crystal structure, matte black or dark gray surface, soft, layered texture, brittle edges, low reflectivity.
+Ge2Te5, germanium telluride crystal, rhombohedral phase, smooth metallic surface, gray with silver highlights, ductile, semi-reflective, phase-shifting sheen.
+S4Y3, yttrium sulfide crystal, cubic symmetry, deep black to dark red surface, crystalline texture, hard, brittle, subtle metallic luster.
+Nb2W5, niobium tungsten alloy, body-centered cubic structure, silver-gray metallic surface, very dense, smooth texture, extremely hard, bright luster.
+Ru1Te6, ruthenium telluride crystal, distorted lattice structure, metallic gray with iridescent overtones, layered texture, brittle, soft shine, conductive surface.
+C14Gd8, gadolinium carbide compound, rhombohedral structure, matte black-gray surface, dense, brittle, granular texture, low reflectivity.
+Nb4S18, niobium sulfide compound, layered monoclinic structure, dark gray surface with bluish tint, brittle, crystalline, smooth texture, moderate reflectivity.
+Co13Ti9, cobalt titanium alloy, body-centered cubic structure, silver-gray metallic surface, hard, dense, smooth, reflective luster.
+Mo4Se18, molybdenum selenide compound, trigonal structure, metallic dark gray surface with slight red tint, layered, brittle, reflective, finely textured.
+S18Sc4, scandium sulfide compound, cubic crystal structure, matte black surface, dense, crystalline, brittle, low reflectivity.
+Co16Y6, cobalt yttrium alloy, cubic symmetry, metallic silver-gray surface with bluish tone, hard, dense, smooth texture, moderate reflectivity.
+S18V4, vanadium sulfide compound, layered monoclinic structure, dark gray surface with reflective planes, brittle, crystalline, moderate luster.
+S18W4, tungsten sulfide compound, layered trigonal structure, black metallic surface with bluish sheen, very dense, brittle, reflective, smooth.
+Se19V3, vanadium selenide compound, monoclinic structure, matte dark gray to black surface, brittle, layered, low reflectivity.
+Er7Ni16, erbium nickel alloy, cubic crystal structure, metallic silver-gray surface with violet tint, dense, smooth, hard, moderately reflective.
+S11Sc12, scandium sulfide compound, cubic crystal structure, matte black surface, hard, dense, crystalline, brittle, low reflectivity.
+S12Y11, yttrium sulfide compound, cubic symmetry, dark gray-black surface with slight red tint, crystalline texture, brittle, low sheen.
+S21Sr3, strontium sulfide compound, monoclinic structure, soft gray-black surface, low density, brittle, granular texture, matte luster.
+Cu3S21, copper sulfide compound, layered trigonal structure, dark metallic gray surface with bluish tint, brittle, reflective planes, dense.
+La3S21, lanthanum sulfide compound, rhombohedral structure, dark gray surface with subtle green hue, brittle, smooth, semi-reflective.
+Ru3S21, ruthenium sulfide compound, layered monoclinic structure, metallic silver-gray surface, hard, dense, smooth, moderately reflective.
+Co22Pr2, cobalt praseodymium alloy, cubic crystal structure, metallic gray surface with blue-violet undertone, dense, hard, bright luster.
+Ag3S21, silver sulfide compound, monoclinic structure, dark gray surface with silvery sheen, soft, brittle, layered texture, reflective.
+S21Te3, tellurium sulfide compound, trigonal structure, metallic dark gray surface with purple tint, soft, brittle, reflective, layered.
+Eu3S21, europium sulfide compound, cubic crystal structure, matte black surface, dense, granular texture, brittle, low reflectivity.
+Pr3S21, praseodymium sulfide compound, rhombohedral structure, matte black surface with green undertones, brittle, dense, fine-grained, low reflectivity.
+Ca4S20, calcium sulfide compound, cubic crystal structure, pale gray surface, soft, powdery texture, low density, matte and brittle.
+Ag3Te22, silver telluride compound, monoclinic structure, dark gray surface with silver sheen, soft, reflective, layered, brittle.
+Ba3Se22, barium selenide compound, cubic symmetry, pale gray to white surface, soft, low density, granular texture, matte finish.
+Sr3Te22, strontium telluride compound, monoclinic structure, dark gray surface, soft, brittle, layered texture, slightly reflective.
+Rb3Te22, rubidium telluride compound, cubic structure, soft gray surface, low density, granular, brittle, matte reflectivity.
+Li3Te22, lithium telluride compound, trigonal structure, pale gray surface, lightweight, soft, powdery texture, low reflectivity.
+K3Te22, potassium telluride compound, cubic crystal structure, soft silvery-gray surface, low density, brittle, slightly reflective.
+Na3Se22, sodium selenide compound, cubic symmetry, soft white surface, low density, powdery, brittle, matte finish.
+Ca3Te22, calcium telluride compound, monoclinic structure, gray surface with bluish tone, brittle, soft, layered, moderately reflective.
+Cu20Ga6, copper gallium alloy, face-centered cubic structure, bright metallic bronze surface, ductile, dense, smooth, moderately reflective.
+Ag4Li22, silver lithium alloy, cubic structure, silvery-white surface with soft sheen, lightweight, ductile, smooth texture, moderately reflective.
+Si17Sm10, samarium silicide compound, hexagonal structure, matte gray surface, hard, brittle, dense, fine-grained, low reflectivity.
+Pr10Si17, praseodymium silicide compound, cubic symmetry, metallic dark gray surface with greenish tint, brittle, dense, smooth, low sheen.
+Nd10Si17, neodymium silicide compound, hexagonal structure, matte silver-gray surface, brittle, fine-grained, moderately dense, low reflectivity.
+Se25W3, tungsten selenide compound, layered trigonal structure, dark metallic surface with blue-gray tone, very dense, brittle, reflective planes.
+Co3Se25, cobalt selenide compound, monoclinic structure, silver-gray surface with subtle purple hue, hard, brittle, layered, moderately reflective.
+Sb3Se25, antimony selenide compound, layered monoclinic structure, metallic gray surface with violet tint, soft, brittle, smooth, reflective.
+Se25Zr3, zirconium selenide compound, monoclinic structure, dark gray surface, dense, brittle, fine-grained texture, moderately reflective.
+P3Se25, phosphorus selenide compound, trigonal structure, red-black crystalline surface, brittle, powdery, soft texture, low reflectivity.
+B20Tb8, terbium boride compound, trigonal structure, dark gray surface with subtle metallic luster, hard, brittle, dense, fine-grained texture.
+Rb3Se25, rubidium selenide compound, monoclinic structure, pale gray to white surface, soft, powdery, low density, brittle, matte reflectivity.
+Bi3Se25, bismuth selenide compound, layered rhombohedral structure, metallic dark gray surface with iridescent tint, soft, brittle, reflective.
+Li3Se25, lithium selenide compound, trigonal structure, soft gray surface, lightweight, powdery texture, brittle, low reflectivity.
+Se25Zn3, zinc selenide compound, cubic symmetry, silvery surface with bluish sheen, smooth, brittle, semi-reflective, fine-grained.
+Pr10Te18, praseodymium telluride compound, trigonal structure, dark metallic surface with violet hue, brittle, dense, reflective, smooth.
+Sc3Se25, scandium selenide compound, cubic crystal structure, matte dark gray surface, hard, granular texture, brittle, low reflectivity.
+P12Ru16, ruthenium phosphide compound, orthorhombic structure, metallic silver-gray surface, hard, dense, finely textured, reflective.
+Se25Te3, tellurium selenide compound, layered structure, metallic dark gray surface with purple tint, soft, brittle, reflective planes.
+Cu3Se25, copper selenide compound, trigonal structure, dark metallic surface with bluish tone, brittle, dense, smooth, semi-reflective.
+Se25Tm3, thulium selenide compound, layered trigonal structure, dark gray to black surface with violet hue, brittle, reflective, dense, fine texture.
+Cr3Se25, chromium selenide compound, monoclinic structure, metallic dark gray surface, hard, dense, brittle, moderately reflective.
+Ga3Se25, gallium selenide compound, layered structure, soft metallic surface with silvery-gray sheen, brittle, smooth, reflective planes.
+La8Sb20, lanthanum antimonide compound, rhombohedral structure, matte silver-gray surface, dense, brittle, fine-grained, semi-reflective.
+Ru16V12, ruthenium vanadium alloy, cubic symmetry, metallic silver surface with bluish tint, hard, dense, smooth, reflective luster.
+S24Sb4, antimony sulfide compound, trigonal structure, dark gray surface with subtle sheen, brittle, crystalline, fine-grained, matte luster.
+Se25Ti3, titanium selenide compound, layered structure, dark gray surface with bluish tone, brittle, reflective, dense, smooth.
+Li8S20, lithium sulfide compound, cubic symmetry, pale gray to white surface, soft, powdery, lightweight, brittle, low reflectivity.
+Er8Sb20, erbium antimonide compound, rhombohedral structure, dark metallic surface with violet tint, dense, brittle, reflective, smooth.
+Co23Tb6, cobalt terbium alloy, cubic structure, metallic silver-gray surface with faint blue tone, dense, smooth, hard, moderately reflective.
+Mn24W5, manganese tungsten alloy, body-centered cubic structure, dark metallic gray surface with subtle luster, very hard, dense, smooth texture.
+Co23Y6, cobalt yttrium alloy, cubic crystal structure, metallic silver-gray surface with bluish hue, dense, hard, smooth, moderately reflective.
+Mn28Si1, manganese silicide compound, trigonal structure, matte gray surface, hard, brittle, finely grained, dense, low reflectivity.
+Mn24Ti5, manganese titanium alloy, cubic structure, metallic dark gray surface, hard, dense, smooth texture, slightly reflective.
+Mn28Nb1, manganese niobium alloy, body-centered cubic structure, dark metallic surface with a bluish tint, very hard, smooth, reflective.
+Mn28Zr1, manganese zirconium alloy, cubic symmetry, dark gray metallic surface, dense, hard, smooth texture, subtle luster.
+Mn28Ni1, manganese nickel alloy, cubic structure, metallic silver-gray surface, dense, finely textured, smooth and moderately reflective.
+Mg1Mn28, magnesium manganese alloy, hexagonal structure, pale gray metallic surface, lightweight, smooth texture, moderately reflective.
+Cr1Mn28, chromium manganese alloy, body-centered cubic structure, dark metallic gray surface, hard, smooth, dense, slightly reflective.
+Al26Pr4, aluminum praseodymium alloy, cubic symmetry, silvery-gray metallic surface, ductile, lightweight, smooth and reflective.
+Nb9O21, niobium oxide compound, monoclinic crystal structure, pale gray to white ceramic surface, hard, brittle, dense, matte finish, low reflectivity.
+P28Sr4, strontium phosphide compound, trigonal structure, dark gray crystalline surface with red undertones, brittle, granular, semi-reflective.
+B4Se28, boron selenide compound, layered trigonal structure, black to dark gray surface, brittle, powdery texture, matte, low reflectivity.
+Ga6Li26, gallium lithium alloy, soft metallic compound with body-centered cubic tendencies, silvery surface with slight bluish hue, ductile, low density, smooth and reflective.
+Ga14S20, gallium sulfide compound, monoclinic structure, off-white to pale yellow surface, powdery, brittle, soft, matte and low density.
+Ag16Sr20, silver strontium alloy, face-centered cubic structure, shiny silvery-white surface, smooth, ductile, high reflectivity, dense.
+Er8Fe28, erbium iron alloy, body-centered cubic structure, metallic dark gray surface with bluish-purple tint, hard, dense, finely grained, bright luster.
+Mn13S24, manganese sulfide compound, cubic structure, dark gray to black crystalline surface, brittle, dense, granular texture, low reflectivity.
+Ru14Tm24, ruthenium thulium alloy, hexagonal structure, metallic silver-gray surface with faint violet hue, very dense, hard, smooth, highly reflective.
+K4S34, potassium sulfide compound, trigonal structure, pale yellow to white powdery surface, soft, low density, brittle, matte and non-reflective.
+Er24Ru14, erbium ruthenium alloy, hexagonal structure, metallic silver-gray surface with violet tint, dense, hard, smooth, highly reflective.
+Cs16In22, cesium indium alloy, cubic symmetry, soft silvery-white surface, low melting point, smooth, ductile, highly reflective, low density.
+Cu34Gd4, copper gadolinium alloy, face-centered cubic structure, bright reddish-metallic surface with silver sheen, ductile, dense, smooth, reflective.
+Ru14Y24, ruthenium yttrium alloy, body-centered cubic structure, metallic silver surface with subtle blue hue, hard, dense, smooth, bright luster.
+Li6Zn33, lithium zinc alloy, cubic symmetry, soft metallic surface, pale gray with bluish tone, lightweight, ductile, smooth, semi-reflective.
+S36Zr4, zirconium sulfide compound, layered trigonal structure, matte dark gray to black surface, hard, brittle, granular texture, low reflectivity.
+P28Rb12, rubidium phosphide compound, trigonal structure, dark gray to red-black crystalline surface, soft, brittle, powdery texture, low reflectivity.
+Eu16O25, europium oxide compound, cubic crystal structure, off-white to pale pink ceramic surface, hard, brittle, matte, dense, low reflectivity.
+Ag8Zn34, silver zinc alloy, face-centered cubic structure, bright silver surface with a warm tone, smooth, ductile, reflective, dense.
+Pr32Te12, praseodymium telluride compound, layered monoclinic structure, metallic dark gray surface with greenish-violet hue, brittle, reflective planes, dense.
+Bi22Sr32, bismuth strontium compound, layered tetragonal structure, metallic gray surface with iridescent sheen, soft, brittle, reflective, dense.
+O12Rb44, rubidium oxide compound, cubic symmetry, pale white to gray surface, soft, powdery, low density, brittle, matte, non-reflective.
+Er20S38, erbium sulfide compound, trigonal structure, dark gray to black crystalline surface with subtle violet hue, brittle, hard, dense, low reflectivity.
+Gd20Se38, gadolinium selenide compound, monoclinic structure, matte gray surface with silvery-blue tint, brittle, crystalline, granular texture, semi-reflective.
+S38Y20, yttrium sulfide compound, cubic crystal structure, matte black surface with red undertones, dense, brittle, low reflectivity, granular texture.
+C28Ti32, titanium carbide compound, rock-salt cubic structure, matte black surface, extremely hard, dense, finely grained, low reflectivity.
+S32Y29, yttrium sulfide compound, hexagonal structure, matte black surface, crystalline, brittle, dense, low luster.
+Ga52Rb12, gallium rubidium alloy, cubic symmetry, silvery surface with blue-gray tint, soft, low melting point, ductile, reflective.
+As26Sr40, strontium arsenide compound, rhombohedral structure, dark gray to metallic blue surface, brittle, smooth, semi-reflective, dense.
+La27Te40, lanthanum telluride compound, layered monoclinic structure, metallic gray surface with bluish-purple tint, brittle, dense, reflective planes.
+Fe7V1, iron vanadium alloy, body-centered cubic structure, metallic gray surface with subtle silver-blue sheen, dense, hard, smooth texture, bright luster.
+Be5Co3, beryllium cobalt intermetallic, hexagonal structure, pale gray metallic surface, lightweight, smooth and fine-grained, brittle, semi-reflective.
+Ru7W1, ruthenium tungsten alloy, distorted cubic structure, metallic silver-gray, very dense, hard, smooth surface, slight iridescent finish.
+Se5Tm4, thulium selenide compound, layered orthorhombic structure, dark gray to black surface, soft, matte texture, brittle edges, low reflectivity.
+B1S8, boron sulfide compound, trigonal structure, dark brown to black crystalline surface, soft, brittle, granular, faint metallic luster.
+Er4Se5, erbium selenide compound, orthorhombic structure, matte gray-black surface, soft, brittle texture, layered appearance, low sheen.
+Al4Li5, aluminum lithium alloy, cubic structure, silvery-white metallic surface, lightweight, ductile, smooth texture, high reflectivity.
+Ge2Sb7, germanium antimony compound, rhombohedral structure, metallic gray surface with reflective sheen, soft, smooth layered texture, semi-metallic luster.
+Ce2Ga8, cerium gallium intermetallic, orthorhombic structure, matte silvery-gray appearance, dense, brittle, fine-grained metallic texture.
+S5Tb6, terbium sulfide compound, cubic structure, dark gray to black surface, dense, brittle, crystalline texture, moderate reflectivity.
+Ni29Zn49, nickel zinc alloy, face-centered cubic structure, metallic silver surface with a slight bluish tone, smooth, dense, hard, moderately reflective.
+Ag11Sb3, silver antimony alloy, rhombohedral structure, bright silver-gray surface with slight bronze hue, smooth, ductile, reflective, moderately dense.
+Ag17Sc54, silver scandium alloy, hexagonal structure, metallic white surface with soft blue tint, lightweight, smooth, ductile, moderately reflective.
+Ag18Ba4, silver barium alloy, cubic symmetry, bright silver surface, soft, low density, ductile, highly reflective, smooth texture.
+Ag1Ga4, silver gallium alloy, monoclinic structure, silvery metallic surface with bluish hue, soft, ductile, smooth, highly reflective.
+Ag3Se25, silver selenide compound, monoclinic structure, dark gray surface with silver sheen, brittle, layered, smooth, moderately reflective.
+Ag6Ba5, silver barium alloy, face-centered cubic structure, silver-white surface, soft, low density, ductile, reflective, smooth.
+Ag6La5, silver lanthanum alloy, cubic structure, metallic gray surface with bluish tint, smooth, soft, ductile, moderately reflective.
+Ag6Pr5, silver praseodymium alloy, cubic crystal structure, metallic silver surface with subtle violet hue, soft, ductile, moderately dense, reflective.
+Ag6Rb5, silver rubidium alloy, cubic symmetry, silvery-white surface, very soft, low melting point, ductile, smooth, highly reflective.
+Ag9Zn17, silver zinc alloy, face-centered cubic structure, bright silvery surface with bluish tint, smooth, ductile, reflective, dense.
+Al11Eu3, aluminum europium alloy, cubic symmetry, matte silvery-white surface with pink hue, lightweight, ductile, smooth, moderately reflective.
+Al14Se20, aluminum selenide compound, monoclinic structure, pale gray surface with matte finish, brittle, powdery, low density, low reflectivity.
+Al1Mn28, aluminum manganese alloy, cubic crystal structure, metallic gray surface with reddish undertone, dense, hard, smooth, semi-reflective.
+Al1S9, aluminum sulfide compound, trigonal structure, pale gray to off-white powdery surface, brittle, soft, low density, matte.
+Al28Ce1, aluminum cerium alloy, hexagonal symmetry, silvery metallic surface with subtle gold tint, smooth, ductile, lightweight, moderately reflective.
+Al34W8, aluminum tungsten alloy, body-centered cubic structure, silvery-gray surface with blue sheen, hard, dense, finely textured, semi-reflective.
+Al3Cu11, aluminum copper alloy, face-centered cubic structure, reddish metallic surface with silver tint, smooth, ductile, bright luster.
+Al3Se25, aluminum selenide compound, trigonal structure, matte gray surface, brittle, powdery, soft, low reflectivity.
+Al4S28, aluminum sulfide compound, monoclinic structure, white to light gray surface, powdery, brittle, soft, matte and non-reflective.
+Al5Mn24, aluminum manganese alloy, face-centered cubic structure, metallic gray surface with a warm tint, hard, dense, finely textured, moderately reflective.
+Al9Cu13, aluminum copper alloy, cubic symmetry, bright reddish-bronze surface with silvery highlights, ductile, smooth, reflective, moderately dense.
+As16Be8, beryllium arsenide compound, trigonal structure, matte dark gray surface with subtle blue hue, lightweight, brittle, fine-grained, low reflectivity.
+As2S9, arsenic sulfide compound, monoclinic structure, bright orange-red surface, powdery, brittle, soft, low density, matte and non-reflective.
+As2Te9, arsenic telluride compound, layered trigonal structure, dark gray surface with purplish tone, brittle, reflective planes, dense, smooth.
+As3Se19, arsenic selenide compound, monoclinic structure, dark gray to reddish-black surface, soft, powdery, brittle, low reflectivity.
+As3Se25, arsenic selenide compound, layered structure, matte gray surface with violet undertones, brittle, granular texture, low reflectivity.
+As4Se14, arsenic selenide compound, rhombohedral structure, dark red to black surface, crystalline, brittle, smooth, matte.
+As5Te8, arsenic telluride compound, monoclinic structure, dark gray surface with iridescent violet tone, brittle, smooth, reflective, dense.
+As6Cr4, chromium arsenide compound, body-centered cubic structure, dark metallic surface with greenish-blue tint, hard, dense, smooth, reflective.
+As6Cs5, cesium arsenide compound, monoclinic structure, silvery-gray surface with subtle green hue, soft, low density, smooth, moderately reflective.
+As6K5, potassium arsenide compound, trigonal structure, pale gray surface, powdery, brittle, lightweight, matte finish, low reflectivity.
+As6Na5, sodium arsenide compound, cubic symmetry, light gray to white surface, soft, brittle, powdery texture, matte, non-reflective.
+As7Ti10, titanium arsenide compound, body-centered cubic structure, dark metallic surface with bluish tone, hard, dense, smooth, reflective.
+B12Se2, boron selenide compound, trigonal structure, matte black surface, brittle, finely grained, soft, low reflectivity.
+B6Pr5, praseodymium boride compound, rhombohedral structure, dark metallic gray surface with green-blue tint, brittle, dense, reflective.
+Ba16In6, barium indium alloy, cubic symmetry, silvery-white metallic surface, soft, low density, ductile, smooth, bright luster.
+Ba3Te22, barium telluride compound, monoclinic structure, matte gray surface with faint purple sheen, brittle, soft, powdery, semi-reflective.
+Ba40Bi26, barium bismuth compound, cubic symmetry, metallic silver-gray surface with subtle bronze tint, soft, low density, reflective, smooth.
+Ba40P26, barium phosphide compound, trigonal structure, pale gray surface, soft, brittle, powdery, matte, non-reflective.
+Ba40Sb26, barium antimonide compound, trigonal structure, pale gray surface with silvery luster, soft, powdery, low density, semi-reflective.
+Ba4S28, barium sulfide compound, monoclinic structure, matte white to light gray surface, soft, brittle, powdery texture, low reflectivity.
+Ba5Zn6, barium zinc alloy, cubic symmetry, silvery-white surface with slight yellow tint, soft, ductile, low density, reflective.
+Ba6In4, barium indium alloy, hexagonal structure, bright metallic surface, soft, low density, ductile, smooth, reflective.
+Be10Ru4, beryllium ruthenium intermetallic, tetragonal structure, pale metallic gray surface, hard, dense, smooth, slightly reflective.
+Be14Ru4, beryllium ruthenium intermetallic, cubic structure, silvery-gray surface, very hard, dense, finely textured, semi-reflective.
+Be1Mn28, beryllium manganese alloy, hexagonal symmetry, metallic gray surface, hard, brittle, smooth, dense, moderately reflective.
+Be23Ti6, beryllium titanium alloy, cubic structure, pale metallic surface with blue hue, lightweight, smooth, hard, semi-reflective.
+Be24Co5, beryllium cobalt alloy, cubic symmetry, dark silver surface with bluish tint, dense, hard, finely grained, moderately reflective.
+Be24Fe5, beryllium iron alloy, body-centered cubic structure, metallic gray surface with silvery sheen, dense, smooth, very hard, reflective.
+Ba40Sb26, barium antimonide compound, trigonal structure, pale gray surface with silvery luster, soft, powdery, low density, semi-reflective.
+Ba4S28, barium sulfide compound, monoclinic structure, matte white to light gray surface, soft, brittle, powdery texture, low reflectivity.
+Ba5Zn6, barium zinc alloy, cubic symmetry, silvery-white surface with slight yellow tint, soft, ductile, low density, reflective.
+Ba6In4, barium indium alloy, hexagonal structure, bright metallic surface, soft, low density, ductile, smooth, reflective.
+Be10Ru4, beryllium ruthenium intermetallic, tetragonal structure, pale metallic gray surface, hard, dense, smooth, slightly reflective.
+Be14Ru4, beryllium ruthenium intermetallic, cubic structure, silvery-gray surface, very hard, dense, finely textured, semi-reflective.
+Be1Mn28, beryllium manganese alloy, hexagonal symmetry, metallic gray surface, hard, brittle, smooth, dense, moderately reflective.
+Be23Ti6, beryllium titanium alloy, cubic structure, pale metallic surface with blue hue, lightweight, smooth, hard, semi-reflective.
+Be24Co5, beryllium cobalt alloy, cubic symmetry, dark silver surface with bluish tint, dense, hard, finely grained, moderately reflective.
+Be24Fe5, beryllium iron alloy, body-centered cubic structure, metallic gray surface with silvery sheen, dense, smooth, very hard, reflective.
+Be35Mn20, beryllium manganese alloy, hexagonal structure, metallic gray surface, lightweight, hard, brittle, finely textured, moderately reflective.
+Be3Se25, beryllium selenide compound, trigonal structure, matte gray surface, soft, powdery, brittle, low density, low reflectivity.
+Be9Co7, beryllium cobalt alloy, cubic symmetry, silver-gray metallic surface with bluish hue, dense, hard, smooth, semi-reflective.
+Bi22Ca32, bismuth calcium compound, layered rhombohedral structure, metallic gray surface with a bluish tint, soft, brittle, semi-reflective, low density.
+Bi3Te22, bismuth telluride compound, layered trigonal structure, dark metallic gray surface with iridescent sheen, soft, brittle, smooth, highly reflective.
+Bi44Sr60, bismuth strontium compound, tetragonal structure, silvery-gray surface with bronze hue, soft, layered, moderately dense, reflective.
+Bi5Sb27, bismuth antimony alloy, rhombohedral structure, silver-gray surface with subtle purple tint, brittle, smooth, dense, semi-reflective.
+Bi7Zr10, bismuth zirconium alloy, cubic symmetry, dark metallic gray surface, brittle, smooth, dense, moderately reflective.
+C12La2, lanthanum carbide compound, trigonal structure, matte black ceramic surface, very hard, dense, brittle, low reflectivity.
+C14Tb8, terbium carbide compound, rhombohedral structure, matte black surface with greenish tint, dense, very hard, brittle, fine-grained.
+Ca3Sr7, calcium strontium alloy, hexagonal structure, metallic silver surface with a slight bluish tint, soft, low density, ductile, smooth, reflective.
+Ca5Ni13, calcium nickel alloy, cubic symmetry, metallic gray surface with a silvery sheen, dense, smooth, moderately reflective, slightly brittle.
+Ca5Se24, calcium selenide compound, monoclinic structure, matte pale gray surface, powdery texture, soft, brittle, low density, non-reflective.
+Ca7Sr3, calcium strontium alloy, hexagonal structure, metallic white surface with blue-gray undertones, soft, lightweight, ductile, reflective.
+Ce10Sb7, cerium antimonide compound, rhombohedral structure, dark metallic surface with violet tone, brittle, dense, smooth, semi-reflective.
+Ce12S20, cerium sulfide compound, cubic crystal structure, dark gray to black surface, granular, brittle, dense, low reflectivity.
+Ce12Se20, cerium selenide compound, layered structure, metallic dark gray surface with bluish sheen, brittle, smooth, moderately reflective.
+Ce1S9, cerium sulfide compound, trigonal structure, black matte surface, powdery, brittle, dense, low luster.
+Ce2S14, cerium sulfide compound, monoclinic structure, matte gray surface with reddish hue, crystalline, brittle, soft, low reflectivity.
+Ce3Si4, cerium silicide compound, cubic symmetry, metallic silver-gray surface, hard, brittle, dense, smooth, moderately reflective.
+Ce4Se10, cerium selenide compound, layered monoclinic structure, dark metallic gray surface with bluish tint, brittle, dense, reflective, smooth texture.
+Ce5Fe19, cerium iron alloy, hexagonal structure, metallic gray surface with slight bronze hue, hard, dense, smooth, semi-reflective.
+Ce6Sb8, cerium antimonide compound, rhombohedral structure, matte silver-gray surface with violet tone, brittle, smooth, moderately reflective, dense.
+Co12Tb10, cobalt terbium alloy, cubic crystal structure, dark metallic surface with purple-blue sheen, dense, hard, smooth, highly reflective.
+Co12Tm10, cobalt thulium alloy, hexagonal symmetry, silver-gray metallic surface with subtle violet undertone, very dense, hard, smooth, reflective.
+Co12Y10, cobalt yttrium alloy, cubic symmetry, metallic gray surface with bluish tone, dense, hard, smooth, moderately reflective.
+Co16Er6, cobalt erbium alloy, hexagonal structure, dark metallic gray surface with slight purple tint, dense, hard, fine-grained, reflective.
+Co1Mn28, cobalt manganese alloy, cubic symmetry, dark gray metallic surface, dense, smooth, hard, moderately reflective.
+Co1S6, cobalt sulfide compound, rhombohedral structure, black surface with metallic luster, brittle, crystalline, smooth, low reflectivity.
+Co22Nd2, cobalt neodymium alloy, cubic crystal structure, metallic silver surface with bluish tone, dense, smooth, hard, bright luster.
+Co2Fe4, cobalt iron alloy, cubic symmetry, metallic gray surface with a slight blue hue, very hard, dense, smooth, finely textured, moderately reflective.
+Co3Zn22, cobalt zinc alloy, hexagonal structure, silvery metallic surface with bluish sheen, smooth, ductile, moderately reflective, lightweight.
+Co4La10, cobalt lanthanum alloy, cubic symmetry, metallic gray surface with violet undertones, dense, smooth, brittle, semi-reflective.
+Co5Er4, cobalt erbium alloy, hexagonal structure, silver-gray surface with purple-blue tint, dense, hard, fine-grained, reflective.
+Co5Tb4, cobalt terbium alloy, body-centered cubic structure, metallic dark gray surface with a bluish sheen, dense, hard, smooth, bright luster.
+Co5Y4, cobalt yttrium alloy, cubic symmetry, metallic silver-gray surface, hard, smooth, moderately dense, semi-reflective.
+Co9Te16, cobalt telluride compound, trigonal layered structure, metallic gray surface with a purple hue, brittle, smooth, dense, reflective.
+Cr3Te25, chromium telluride compound, layered rhombohedral structure, matte dark gray surface with a greenish tint, brittle, dense, low reflectivity.
+Cr4S21, chromium sulfide compound, trigonal structure, black surface with metallic luster, brittle, hard, fine-grained, low reflectivity.
+Cs3Se25, cesium selenide compound, monoclinic structure, pale gray surface with powdery texture, soft, brittle, low density, matte and non-reflective.
+Cs4S34, cesium sulfide compound, trigonal structure, pale yellow to white powdery surface, soft, brittle, low density, matte, non-reflective.
+Cs4Zn51, cesium zinc alloy, cubic symmetry, silvery-white metallic surface, very soft, low melting point, smooth, ductile, highly reflective.
+Cu11Zn15, copper zinc alloy (brass), face-centered cubic structure, bright golden metallic surface, smooth, ductile, reflective, moderately dense.
+Cu12Li14, copper lithium alloy, hexagonal structure, metallic bronze surface with a reddish sheen, lightweight, ductile, smooth, moderately reflective.
+Cu12Tb3, copper terbium alloy, cubic symmetry, bronze-gray surface with violet undertones, dense, smooth, brittle, moderately reflective.
+Cu12Tm3, copper thulium alloy, face-centered cubic structure, metallic bronze surface with bluish tint, hard, dense, smooth, reflective.
+Cu14Tm4, copper thulium alloy, cubic structure, reddish-bronze surface with violet luster, dense, smooth, hard, semi-reflective.
+Cu20Ga14, copper gallium alloy, cubic symmetry, reddish-gold metallic surface, smooth, ductile, reflective, dense.
+Cu3Te19, copper telluride compound, layered trigonal structure, dark gray metallic surface with purplish sheen, brittle, reflective, smooth.
+Cu5S4, copper sulfide compound, monoclinic structure, black to dark brown crystalline surface, brittle, granular, semi-reflective, dense.
+Ag6Sr5, silver strontium alloy, cubic crystal structure, bright silver-white metallic surface, soft, highly reflective, smooth texture, moderately dense.
+Mn3Ti8, manganese titanium alloy, hexagonal structure, matte gray metallic surface with bluish tint, hard, finely textured, dense, low luster.
+Ru3V8, ruthenium vanadium intermetallic, distorted cubic structure, silver-gray metallic surface, hard, dense, smooth with faint iridescence, bright luster.
+Mo3Ti8, molybdenum titanium alloy, body-centered cubic structure, dark metallic gray surface, extremely hard, smooth and dense, subtle sheen.
+P2Te9, phosphorus telluride compound, layered monoclinic structure, matte dark gray with subtle purple tones, soft, brittle, granular surface, low reflectivity.
+Cr3V8, chromium vanadium alloy, body-centered cubic structure, metallic dark gray surface with bluish hue, hard, smooth texture, slightly reflective.
+P5Y6, yttrium phosphide compound, hexagonal structure, black crystalline surface, brittle, matte finish, fine-grained texture, moderate density.
+Bi6K5, bismuth potassium alloy, rhombohedral structure, dark metallic gray surface with iridescent sheen, soft, brittle, layered and reflective.
+Cu6Y5, copper yttrium intermetallic, cubic structure, metallic bronze surface, ductile, smooth and dense, bright luster.
+Ag6Nd5, silver neodymium alloy, cubic crystal structure, bright silver surface, soft, smooth texture, moderately dense, semi-reflective.
+Cu6Tb5, copper terbium intermetallic, cubic crystal structure, metallic bronze-gray surface, dense, ductile, smooth texture, moderate reflectivity.
+S5Y6, yttrium sulfide compound, cubic symmetry, deep black surface with red undertones, crystalline texture, brittle, matte finish, low reflectivity.
+Cu6Pr5, copper praseodymium intermetallic, cubic structure, bronze metallic surface with slight greenish tint, smooth, ductile, moderately reflective.
+Ag6Cs5, silver cesium alloy, cubic crystal structure, soft metallic silver-white surface, low density, smooth and reflective, bright luster.
+B6Nd5, boron neodymium compound, rhombohedral structure, dark matte gray surface, granular and brittle texture, moderate density, subtle luster.
+Mn3Te8, manganese telluride compound, layered monoclinic structure, dark metallic gray with blue-purple tint, soft, brittle, reflective planes, low sheen.
+Er6S5, erbium sulfide compound, cubic crystal structure, matte black-gray surface, hard, brittle, crystalline with low reflectivity.
+Cu6Sr5, copper strontium intermetallic, cubic structure, reddish-bronze surface, smooth texture, ductile, reflective, moderate density.
+La2Se10, lanthanum selenide compound, layered orthorhombic structure, dark gray with brown tint, brittle, semi-reflective luster, soft granular texture.
+Ga2Te10, gallium telluride compound, trigonal layered structure, soft metallic surface with gray-purple tint, semi-reflective, smooth and brittle.
+Li4Zn9, lithium zinc alloy, hexagonal crystal structure, silvery-gray metallic surface, lightweight, smooth texture, moderately reflective, fine-grained.
+Ni5Te8, nickel telluride compound, trigonal structure, dark metallic gray surface, brittle, layered texture, moderate reflectivity, dense and smooth.
+S6Y7, yttrium sulfide compound, cubic symmetry, deep black surface with subtle red undertone, brittle crystalline texture, low reflectivity.
+Ag6Zn7, silver zinc alloy, cubic crystal structure, bright metallic surface with silvery-white tone, ductile, smooth and reflective, soft texture.
+Y9Zn4, yttrium zinc alloy, hexagonal structure, matte silver-gray surface, brittle, moderately dense, fine-grained with subtle luster.
+Be12Ru1, beryllium ruthenium intermetallic, tetragonal structure, pale gray metallic surface, hard, smooth and dense, slightly reflective.
+Rb2Sn12, rubidium tin compound, cubic crystal system, soft silvery surface with dull luster, low density, granular, slightly reflective.
+B12S2, boron sulfide compound, trigonal structure, dark gray to black crystalline surface, brittle, granular texture, subtle metallic luster.
+Cu11Zn3, copper zinc alloy, face-centered cubic structure, metallic reddish surface with golden tint, ductile, smooth and bright.
+O2Zr12, zirconium oxide compound, monoclinic structure, white to pale gray surface, ceramic texture, hard and brittle, matte with low reflectivity.
+K5Sn9, potassium tin compound, tetragonal crystal structure, soft silvery-gray surface, low density, granular texture, slightly reflective.
+Nd8Te6, neodymium telluride compound, layered monoclinic structure, dark metallic gray with blue-violet tint, soft, brittle, reflective planes, dense.
+Co4Sc10, cobalt scandium alloy, cubic crystal structure, metallic blue-gray surface, dense, smooth and fine-grained, moderately reflective.
+Gd10Ni4, gadolinium nickel alloy, hexagonal structure, silver-gray metallic surface with faint yellow hue, dense, hard, smooth texture, bright luster.
+Mg10Nd4, magnesium neodymium alloy, hexagonal structure, light silvery metallic surface, lightweight, ductile, fine texture, moderate reflectivity.
+La7Te8, lanthanum telluride compound, layered monoclinic structure, dark gray metallic surface with bronze tone, brittle, smooth and slightly reflective.
+S8Sc7, scandium sulfide compound, cubic symmetry, matte black surface, hard, brittle crystalline structure, low reflectivity, dense.
+S7Y8, yttrium sulfide compound, cubic structure, dark gray-black surface with red undertones, crystalline texture, brittle, low sheen.
+Er8S7, erbium sulfide compound, cubic crystal structure, dark gray surface with subtle violet tint, brittle, granular, matte luster.
+Te8Y7, yttrium telluride compound, layered crystal structure, metallic dark gray surface, soft, brittle, smooth with reflective planes.
+Sm7Te8, samarium telluride compound, layered monoclinic structure, dark metallic surface with bluish-purple tint, soft, brittle, reflective planes, dense.
+Pr7S8, praseodymium sulfide compound, cubic crystal structure, dark gray to black surface with subtle green tint, crystalline, brittle, matte finish.
+Si3V13, silicon vanadium alloy, body-centered cubic structure, metallic silver-gray surface, hard, dense, smooth, moderately reflective.
+Cr1Fe15, chromium iron alloy, body-centered cubic structure, dark silver-gray metallic surface, very hard, dense, finely textured, bright luster.
+Sc1Zr15, scandium zirconium alloy, hexagonal structure, pale gray metallic surface, smooth, dense, slightly reflective, finely grained.
+Cr13V3, chromium vanadium alloy, body-centered cubic structure, matte dark metallic surface with bluish tone, hard, dense, smooth and textured.
+Ni1V15, nickel vanadium alloy, cubic crystal structure, silver-gray metallic surface, hard, dense, smooth and reflective.
+La1Nd15, lanthanum neodymium alloy, hexagonal crystal structure, matte silvery surface, dense, brittle, fine-grained, slightly reflective.
+Al5Ni11, aluminum nickel alloy, cubic structure, silvery-gray metallic surface, smooth, dense, ductile, moderately reflective.
+La1Pr15, lanthanum praseodymium alloy, cubic symmetry, matte silver metallic surface, smooth, fine texture, brittle, low reflectivity.
+Cr11V5, chromium vanadium alloy, body-centered cubic structure, matte metallic surface with bluish-gray tone, hard, dense, smooth and finely textured.
+Al3Cu13, aluminum copper alloy, face-centered cubic structure, reddish-silver metallic surface, ductile, smooth texture, moderately dense, reflective.
+Ga5Ni11, gallium nickel alloy, cubic symmetry, metallic gray surface with silvery tint, smooth, dense, ductile, slightly reflective.
+S16Tm2, thulium sulfide compound, cubic structure, deep black crystalline surface, brittle, low reflectivity, dense, granular texture.
+Be2S16, beryllium sulfide compound, hexagonal structure, pale gray to white matte surface, lightweight, brittle, powdery texture, low reflectivity.
+Cr2S16, chromium sulfide compound, monoclinic structure, dark gray to black surface with granular crystalline texture, hard, brittle, matte finish.
+Sm5Sn13, samarium tin compound, cubic crystal structure, dull silver-gray surface, brittle, dense, smooth with subtle luster.
+S12V7, vanadium sulfide compound, layered structure, black surface with metallic sheen, brittle, crystalline, fine-grained, moderate reflectivity.
+Mn12P7, manganese phosphide compound, trigonal structure, dark metallic surface with purplish tone, dense, hard, brittle, reflective.
+La10P9, lanthanum phosphide compound, monoclinic structure, matte black-gray surface, soft, granular, brittle, low sheen.
+P7Ti12, titanium phosphide compound, trigonal structure, dark metallic gray surface with a subtle bluish tint, hard, brittle, dense, smooth and reflective.
+As7Ti12, titanium arsenide compound, cubic crystal structure, metallic gray surface with purplish tone, hard, dense, finely textured, semi-reflective.
+Co6Zr14, cobalt zirconium alloy, hexagonal structure, silvery-gray metallic surface, dense, smooth, hard, slightly reflective.
+Ca2S18, calcium sulfide compound, cubic symmetry, soft matte white to gray surface, low density, powdery and brittle, low reflectivity.
+S16Ti4, titanium sulfide compound, layered monoclinic structure, matte black surface, hard, brittle, crystalline texture, moderate reflectivity.
+Bi2S18, bismuth sulfide compound, rhombohedral structure, dark gray to black surface with bluish sheen, soft, brittle, layered and reflective.
+As2S18, arsenic sulfide compound, trigonal structure, red-orange crystalline surface, soft, powdery, brittle, low reflectivity.
+Co11Ti9, cobalt titanium alloy, cubic crystal structure, metallic silver-gray surface, hard, dense, smooth, bright luster.
+Gd4Se16, gadolinium selenide compound, cubic symmetry, dark gray-black crystalline surface, dense, brittle, granular, low reflectivity.
+Sb4Se16, antimony selenide compound, layered monoclinic structure, metallic gray surface with violet tint, soft, brittle, reflective planes.
+Ca6Fe2O16Si4, complex calcium iron silicate compound, monoclinic or orthorhombic crystal structure, brownish-red to reddish-brown coloration, vitreous to submetallic luster, moderate hardness (5-6 Mohs), relatively dense (3.5-4.0 g/cm³), opaque to translucent at edges, uneven fracture, crystalline appearance, weakly magnetic, light brown streak.
